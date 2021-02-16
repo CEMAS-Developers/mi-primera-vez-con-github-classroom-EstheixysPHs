@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/main.c8c28e2c.chunk.js",
+    "main.js.map": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/main.c8c28e2c.chunk.js.map",
+    "runtime-main.js": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/runtime-main.4cd37ba4.js",
+    "runtime-main.js.map": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/runtime-main.4cd37ba4.js.map",
+    "static/js/2.58338685.chunk.js": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/2.58338685.chunk.js",
+    "static/js/2.58338685.chunk.js.map": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/2.58338685.chunk.js.map",
+    "static/js/3.d97b84df.chunk.js": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/3.d97b84df.chunk.js",
+    "static/js/3.d97b84df.chunk.js.map": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/3.d97b84df.chunk.js.map",
+    "index.html": "/mi-primera-vez-con-github-classroom-EstheixysPHs/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.58338685.chunk.js.LICENSE.txt": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/js/2.58338685.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mi-primera-vez-con-github-classroom-EstheixysPHs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cd37ba4.js",
+    "static/js/2.58338685.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.c8c28e2c.chunk.js"
+  ]
+}
